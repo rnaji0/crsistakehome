@@ -1,3 +1,8 @@
+# ENV
+MONGODB_URI=mongodb+srv://najirami680:IqLCHZg35Yo3H1M6@crisiscompass.c0by75q.mongodb.net/CrisisCompass?retryWrites=true&w=majority&appName=CrisisCompass
+PORT=5010
+
+
 # Hello 👋
 
 Thank you for your interest in Bits of Good! This assessment is designed to showcase your practical skills as a developer. The tasks included reflect the skills most often used by developers at BoG. This README has a lot of information so make sure you read it fully. While doing the assessment, if you have questions or find any part unclear, please file a GitHub issue and add `@uma-anand`as an assignee.
